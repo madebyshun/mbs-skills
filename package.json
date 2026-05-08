@@ -1,0 +1,10 @@
+{
+  "name": "@mbs/skills",
+  "version": "0.1.0",
+  "description": "AI design skills by MBS — Designer × Builder",
+  "main": "skills/",
+  "files": ["skills/", "SKILL.md", "README.md"],
+  "keywords": ["design", "ui", "web3", "base", "ai", "skills"],
+  "author": "madebyshun",
+  "license": "MIT"
+}
