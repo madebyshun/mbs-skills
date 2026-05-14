@@ -1,5 +1,8 @@
 # mbs-skills
 
+[![GitHub Stars](https://img.shields.io/github/stars/madebyshun/mbs-skills?style=flat-square)](https://github.com/madebyshun/mbs-skills)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+
 > 9 AI design skills by MBS — Designer × Builder
 
 A collection of AI-powered design skills for critiquing, auditing, and improving digital products, brands, and Web3 projects.
@@ -19,6 +22,8 @@ A collection of AI-powered design skills for critiquing, auditing, and improving
 ## Usage
 
 Each skill file in `skills/` defines an Assistant persona and a User prompt template. Drop the skill into any Claude-compatible agent or skill runner.
+
+See [`examples/`](./examples) for sample inputs and outputs for every skill.
 
 ## Author
 
