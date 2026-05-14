@@ -1,7 +1,7 @@
 # mbs-skills
 
 **Author:** MBS (madebyshun)
-**Description:** 8 AI design skills — UI roast, website audit, Web3 UX, logo review, token brand, NFT art direction, landing page review, brand naming
+**Description:** 9 AI design skills — UI roast, website audit, Web3 UX, logo review, token brand, NFT art direction, landing page review, brand naming, vertical clip editor
 
 ## Skills
 
@@ -15,3 +15,4 @@
 | `token-brand` | Token brand evaluation — name, visual identity, community vibe, narrative, and differentiation |
 | `nft-art-direction` | NFT collection art direction review — traits, consistency, rarity, storytelling, and collector appeal |
 | `brand-naming` | Brand naming strategy — 10 name options across literal, abstract, metaphorical, and invented styles |
+| `vertical-clip` | Raw footage to punchy vertical clip — conversational workflow for content selection, captions, and hook |

@@ -1,6 +1,6 @@
 # mbs-skills
 
-> 8 AI design skills by MBS — Designer × Builder
+> 9 AI design skills by MBS — Designer × Builder
 
 A collection of AI-powered design skills for critiquing, auditing, and improving digital products, brands, and Web3 projects.
 
@@ -14,6 +14,7 @@ A collection of AI-powered design skills for critiquing, auditing, and improving
 - **token-brand** — Token brand and identity evaluation
 - **nft-art-direction** — NFT collection art direction review
 - **brand-naming** — Brand naming strategy with 10 name options
+- **vertical-clip** — Raw footage to punchy vertical clip: content selection, captions, and hook
 
 ## Usage
 
