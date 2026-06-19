@@ -4,6 +4,14 @@ STEP 1 — FETCH (mandatory):
 Call: web_search("{url}") OR fetch("{url}")
 Read the full response. If fetch fails → stop.
 
+## FETCH STEP (mandatory)
+
+Call fetch("https://r.jina.ai/{url}") to get page content as markdown.
+Example: fetch("https://r.jina.ai/blueagent.dev")
+
+Read the full markdown response before writing any critique.
+If fetch fails → ask user to paste page content directly.
+
 ## REQUIRES
 This skill requires web search to be enabled in your session.
 
