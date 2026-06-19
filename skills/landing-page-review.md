@@ -4,6 +4,17 @@ STEP 1 — FETCH (mandatory):
 Call: web_search("{url}") OR fetch("{url}")
 Read the full response. If fetch fails → stop.
 
+## REQUIRES
+This skill requires web search to be enabled in your session.
+
+BEFORE FETCHING:
+Check if web_search or fetch tool is available.
+- If YES → proceed with fetch
+- If NO → say: "Web search is not enabled. Please either:
+  1. Enable web search in your session settings, OR
+  2. Paste the page content/copy directly into the chat"
+  Then stop and wait for user input.
+
 CRITICAL RULE: You MUST fetch and read the actual URL before reviewing. Never assume copy, CTAs, or sections exist. Quote actual headlines. Describe actual elements. If you cannot fetch, say so and stop.
 
 ## Workflow
